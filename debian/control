@@ -3,19 +3,17 @@ Section: graphics
 Priority: optional
 Maintainer: Alf Gaida <agaida@siduction.org>
 Build-Depends: debhelper (>= 11)
-Standards-Version: 4.1.3
+Standards-Version: 4.1.4
+Vcs-Browser: https://git.siduction.org/artwork/env-mate
 Vcs-Git: https://git.siduction.org/artwork/env-mate.git
-Vcs-Browser: https://git.siduction.org/artwork/env-mate.git
 
 
 Package: patience-mate-artwork
 Architecture: all
-Depends:
- ${misc:Depends},
- patience-wallpapers,
- siduction-icons,
-Recommends:
- dmz-cursor-theme
+Depends: ${misc:Depends},
+         patience-wallpapers,
+         siduction-icons
+Recommends: dmz-cursor-theme
 Description: Mate theme for Patience
  Release specific metapackage depending on patience-wallpapers to be
  used in combination with the Mate Desktop Environment.
