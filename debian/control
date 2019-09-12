@@ -1,21 +1,19 @@
-Source: paintitblack-mate-artwork
+Source: xperimental-mate-artwork
 Section: graphics
-Priority: extra
+Priority: optional
 Maintainer: Alf Gaida <agaida@siduction.org>
-Build-Depends: debhelper (>= 9)
-Standards-Version: 3.9.8
+Build-Depends: debhelper-compat (= 12)
+Standards-Version: 4.4.0
+Vcs-Browser: https://git.siduction.org/artwork/env-mate
 Vcs-Git: https://git.siduction.org/artwork/env-mate.git
-Vcs-Browser: https://git.siduction.org/artwork/env-mate.git
 
 
-Package: paintitblack-mate-artwork
+Package: xperimental-mate-artwork
 Architecture: all
-Depends:
- ${misc:Depends},
- paintitblack-wallpapers,
- siduction-icons,
-Recommends:
- dmz-cursor-theme
-Description: Mate theme for PaintItBlack - next
- Release specific metapackage depending on icons and wallpapers to be
+Depends: ${misc:Depends},
+         xperimental-wallpapers,
+         siduction-icons
+Recommends: dmz-cursor-theme
+Description: Mate theme for Xperimental
+ Release specific metapackage depending on xperimental-wallpapers to be
  used in combination with the Mate Desktop Environment.

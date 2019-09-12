@@ -1,31 +1,5 @@
-paintitblack-mate-artwork (2016.09.04-1) unstable; urgency=medium
-
-  * new bootstrap, fixed copyright, fixed VCS-fields
-  * deleted source options
-  * use source format 1.0
-
- -- Alf Gaida <agaida@siduction.org>  Mon, 05 Sep 2016 23:01:16 +0200
-
-paintitblack-mate-artwork (2016.08.02) unstable; urgency=medium
-
-  * VERSION hardlinked
-
- -- Alf Gaida <agaida@siduction.org>  Thu, 11 Aug 2016 00:15:50 +0200
-
-paintitblack-mate-artwork (2016.08.01) unstable; urgency=medium
-
-  * new bootstrap 
-
- -- Alf Gaida <agaida@siduction.org>  Mon, 08 Aug 2016 21:06:44 +0200
-
-paintitblack-mate-artwork (2015.08.01) unstable; urgency=medium
-
-  * new paintitblack mate artwork, reworked, renamed
-
- -- Alf Gaida <agaida@siduction.org>  Mon, 03 Aug 2015 00:30:16 +0200
-
-paintitblack-mate-artwork (2015.1.0) unstable; urgency=low
+xperimental-mate-artwork (2019.1.0~1) unstable; urgency=medium
 
   * initial release
 
- -- Alf Gaida <agaida@siduction.org>  Mon, 03 Aug 2015 00:29:26 +0200
+ -- Alf Gaida <agaida@siduction.org>  Fri, 13 Sep 2019 00:26:00 +0200
