@@ -1,4 +1,4 @@
-Source: patience-mate-artwork
+Source: c-blues-mate-artwork
 Section: graphics
 Priority: optional
 Maintainer: Alf Gaida <agaida@siduction.org>
@@ -8,12 +8,12 @@ Vcs-Browser: https://git.siduction.org/artwork/env-mate
 Vcs-Git: https://git.siduction.org/artwork/env-mate.git
 
 
-Package: patience-mate-artwork
+Package: c-blues-mate-artwork
 Architecture: all
 Depends: ${misc:Depends},
-         patience-wallpapers,
+         c-blues-wallpapers,
          siduction-icons
 Recommends: dmz-cursor-theme
-Description: Mate theme for Patience
- Release specific metapackage depending on patience-wallpapers to be
+Description: Mate theme for c-blues
+ Release specific metapackage depending on c-blues-wallpapers to be
  used in combination with the Mate Desktop Environment.
