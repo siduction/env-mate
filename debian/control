@@ -1,4 +1,4 @@
-Source: c-blues-mate-artwork
+Source: cblues-mate-artwork
 Section: graphics
 Priority: optional
 Maintainer: Alf Gaida <agaida@siduction.org>
@@ -8,12 +8,12 @@ Vcs-Browser: https://git.siduction.org/artwork/env-mate
 Vcs-Git: https://git.siduction.org/artwork/env-mate.git
 
 
-Package: c-blues-mate-artwork
+Package: cblues-mate-artwork
 Architecture: all
 Depends: ${misc:Depends},
-         c-blues-wallpapers,
+         cblues-wallpapers,
          siduction-icons
 Recommends: dmz-cursor-theme
-Description: Mate theme for c-blues
- Release specific metapackage depending on c-blues-wallpapers to be
+Description: Mate theme for cblues
+ Release specific metapackage depending on cblues-wallpapers to be
  used in combination with the Mate Desktop Environment.
