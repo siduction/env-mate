@@ -1,3 +1,9 @@
+farewell-mate-artwork (2021.1.99-1) unstable; urgency=medium
+
+  * prepare farewell packaging
+
+ -- Torsten Wohlfarth <towo@siduction.org>  Fri, 11 Jun 2021 07:21:15 +0200
+
 cblues-mate-artwork (2021.1.0-1) unstable; urgency=medium
 
   * fix codename safe
