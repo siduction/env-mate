@@ -1,4 +1,4 @@
-Source: farewell-mate-artwork
+Source: wintersky-mate-artwork
 Section: graphics
 Priority: optional
 Maintainer: Alf Gaida <agaida@siduction.org>
@@ -8,12 +8,12 @@ Vcs-Browser: https://git.siduction.org/artwork/env-mate
 Vcs-Git: https://git.siduction.org/artwork/env-mate.git
 
 
-Package: farewell-mate-artwork
+Package: wintersky-mate-artwork
 Architecture: all
 Depends: ${misc:Depends},
-         farewell-wallpapers,
+         wintersky-wallpapers,
          siduction-icons
 Recommends: dmz-cursor-theme
-Description: Mate theme for farewell
- Release specific metapackage depending on farewell-wallpapers to be
+Description: Mate theme for wintersky
+ Release specific metapackage depending on wintersky-wallpapers to be
  used in combination with the Mate Desktop Environment.
