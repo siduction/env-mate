@@ -1,4 +1,4 @@
-Source: wintersky-mate-artwork
+Source: mow-mate-artwork
 Section: graphics
 Priority: optional
 Maintainer: Alf Gaida <agaida@siduction.org>
@@ -8,12 +8,12 @@ Vcs-Browser: https://git.siduction.org/artwork/env-mate
 Vcs-Git: https://git.siduction.org/artwork/env-mate.git
 
 
-Package: wintersky-mate-artwork
+Package: mow-mate-artwork
 Architecture: all
 Depends: ${misc:Depends},
-         wintersky-wallpapers,
+         mow-wallpapers,
          siduction-icons
 Recommends: dmz-cursor-theme
-Description: Mate theme for wintersky
- Release specific metapackage depending on wintersky-wallpapers to be
+Description: Mate theme for mow
+ Release specific metapackage depending on mow-wallpapers to be
  used in combination with the Mate Desktop Environment.
